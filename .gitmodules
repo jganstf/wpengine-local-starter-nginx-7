@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/tf-theme-starter"]
+	path = wp-content/themes/tf-theme-starter
+	url = https://github.com/jganstf/tf-theme-starter
